@@ -43,7 +43,7 @@ on:
 
 env: 
   REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
-  SCKEY: ${{ secrets.SCKEY }
+  SCKEY: ${{ secrets.SCKEY }}
   GITHUB_RELEASE: https://github.com/microcrystal/build-openwrt/releases
   TZ: Asia/Shanghai
 
